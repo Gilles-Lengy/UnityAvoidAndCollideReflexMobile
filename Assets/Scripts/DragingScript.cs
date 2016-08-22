@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DragMe : MonoBehaviour {
+public class DragingScript : MonoBehaviour {
 
     // http://k2nicestudio.com/tutorial/2016/1/31/tutorial-1-click-or-touch-to-drag-an-object
     // Siglhy modified to use rigidbody2d...
